@@ -30,7 +30,7 @@ Privacy-preserving emotion detection for mental health diary text using **Federa
 
 ---
 
-### 📊 [Student Performance Predictor]([https://github.com/Zeb001](https://github.com/yadavaruncs/Student-performance-predictor))
+### 📊 [Student Performance Predictor](https://github.com/yadavaruncs/Student-performance-predictor)
 ML model achieving **85% accuracy** predicting student academic outcomes. Deployed with an interactive Streamlit interface.
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white)
