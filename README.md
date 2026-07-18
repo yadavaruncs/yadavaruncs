@@ -39,13 +39,13 @@ ML model achieving **85% accuracy** predicting student academic outcomes. Deploy
 
 ---
 
-## 🛗 [Lift Management System]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/yadavaruncs/-Lift-Management-System))
+### 🛗 [Lift Management System](https://github.com/yadavaruncs/Lift-Management-System)
 
-Optimised multi-floor scheduling in C++ designed to minimise wait times and energy consumption across concurrent operations.
+Optimised multi-floor lift scheduling in C++ using efficient algorithms to minimise passenger wait times and improve elevator utilization across concurrent requests.
 
-![C++](https://img.shields.io/badge/C%2B%2B-%23FAECE7?style=flat&labelColor=%23993C1D&color=%23993C1D&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%23FAECE7?style=flat&labelColor=%23993C1D&color=%23993C1D&logo=c%2B%2B&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23FAEEDA?style=flat&labelColor=%23854F0B&color=%23854F0B&logoColor=white)
-
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 ---
 ## 🛠️ Technical Skills
 
