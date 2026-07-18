@@ -39,7 +39,7 @@ ML model achieving **85% accuracy** predicting student academic outcomes. Deploy
 
 ---
 
-### 🛗 [Lift Management System]([https://github.com/ARUN123/Lift-Management-System](https://github.com/yadavaruncs/-Lift-Management-System))
+## 🛗 [Lift Management System]([https://github.com/YOUR_USERNAME/YOUR_REPOSITORY](https://github.com/yadavaruncs/-Lift-Management-System))
 
 Optimised multi-floor scheduling in C++ designed to minimise wait times and energy consumption across concurrent operations.
 
