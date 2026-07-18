@@ -39,14 +39,14 @@ ML model achieving **85% accuracy** predicting student academic outcomes. Deploy
 
 ---
 
-### 🛗 [Lift Management System](https://github.com/Zeb001)
+### 🛗 [Lift Management System]([https://github.com/ARUN123/Lift-Management-System](https://github.com/yadavaruncs/-Lift-Management-System))
+
 Optimised multi-floor scheduling in C++ designed to minimise wait times and energy consumption across concurrent operations.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23FAECE7?style=flat&labelColor=%23993C1D&color=%23993C1D&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-%23FAEEDA?style=flat&labelColor=%23854F0B&color=%23854F0B&logoColor=white)
 
 ---
-
 ## 🛠️ Technical Skills
 
 | | |
