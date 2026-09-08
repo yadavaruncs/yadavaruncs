@@ -28,35 +28,6 @@ Privacy-preserving emotion detection for mental health diary text using **Federa
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated%20Learning-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 
----
-
-### 📊 [Student Performance Predictor](https://github.com/yadavaruncs/Student-performance-predictor)
-ML model achieving **85% accuracy** predicting student academic outcomes. Deployed with an interactive Streamlit interface.
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
-
----
-
-### 🛗 [Lift Management System](https://github.com/yadavaruncs/Lift-Management-System)
-
-Optimised multi-floor lift scheduling in C++ using efficient algorithms to minimise passenger wait times and improve elevator utilization across concurrent requests.
-
-![C++](https://img.shields.io/badge/C%2B%2B-%23FAECE7?style=flat&labelColor=%23993C1D&color=%23993C1D&logo=c%2B%2B&logoColor=white)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23FAEEDA?style=flat&labelColor=%23854F0B&color=%23854F0B&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
----
-## 🛠️ Technical Skills
-
-| | |
-|---|---|
-| **Languages** | Python · C++ · Java · C · SQL |
-| **ML & AI** | PyTorch · TensorFlow · Scikit-learn · HuggingFace Transformers · NLTK |
-| **Data** | Pandas · NumPy · Matplotlib · Streamlit |
-| **Tools** | Git · VS Code · Linux |
-
----
 
 ## 📬 Connect
 
