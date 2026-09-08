@@ -14,7 +14,7 @@
 
 ---
 
-> Third-year CS student building intelligent, privacy-aware systems. I work at the intersection of NLP, federated learning, and software engineering — turning complex ideas into working code.
+> Fourth-year CS student building intelligent, privacy-aware systems. I work at the intersection of NLP, federated learning, and software engineering — turning complex ideas into working code.
 
 ---
 
