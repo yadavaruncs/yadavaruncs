@@ -28,6 +28,14 @@ Privacy-preserving emotion detection for mental health diary text using **Federa
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated%20Learning-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 
+### ⚡ [SearchX](https://github.com/yadavaruncs/Search-X)
+A search engine built from scratch in **C++20** — inverted index, TF-IDF ranking, Trie autocomplete, and a hand-built LRU cache, with multithreaded indexing and a benchmark suite showing 150x+ speedup over linear search.
+
+![C++20](https://img.shields.io/badge/C%2B%2B20-%23FBEAE3?style=flat&labelColor=%23D85A30&color=%23D85A30&logoColor=white&logo=cplusplus)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
+![Multithreading](https://img.shields.io/badge/Multithreading-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=cmake)
+
 
 ## 📬 Connect
 
