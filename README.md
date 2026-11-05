@@ -37,7 +37,15 @@ A search engine built from scratch in **C++20** — inverted index, TF-IDF ranki
 ![CMake](https://img.shields.io/badge/CMake-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=cmake)
 
 
+### 📈 [Prediction Market Calibration](https://github.com/yadavaruncs/Prediction-market-calibration)
+Are Polymarket prices honest probabilities? A calibration study of **897 resolved markets** using clustered bootstrap intervals, a Murphy decomposition, and a **walk-forward backtest with no lookahead**. Prices proved well calibrated (Brier skill score 0.51), and an apparent 9.2% trading return could not be distinguished from zero.
+
+![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white&logo=scikitlearn)
+![statsmodels](https://img.shields.io/badge/statsmodels-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=pandas)
+
 ## 📬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E6F1FB?style=for-the-badge&logo=linkedin&labelColor=%23185FA5&color=%23185FA5&logoColor=white)](linkedin.com/in/arun-yadav-18281035b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E6F1FB?style=for-the-badge&logo=linkedin&labelColor=%23185FA5&color=%23185FA5&logoColor=white)](https://www.linkedin.com/in/arun-yadav-18281035b)
 [![Email](https://img.shields.io/badge/Email-%23FAECE7?style=for-the-badge&logo=gmail&labelColor=%23993C1D&color=%23993C1D&logoColor=white)](mailto:arunyadav_23cs081@dtu.ac.in)
