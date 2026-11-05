@@ -8,7 +8,7 @@
 ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%231D9E75?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-%23378ADD?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-%23D85A30?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships%20%F0%9F%94%8D-2025-%23BA7517?style=for-the-badge)
+![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships%20%F0%9F%94%8D-%23BA7517?style=for-the-badge)
 
 </div>
 
@@ -20,11 +20,11 @@
 
 ## 🚀 Featured Projects
 
-### 🔒 [FECL-EmotionAI](https://github.com/Zeb001/FECL-EmotionAI)
-Privacy-preserving emotion detection for mental health diary text using **Federated Learning**, **BERT**, and **Differential Privacy**. User data stays local — always.
+### 🔒 [FECL-EmotionAI](https://github.com/yadavaruncs/FECL-EmotionAI)
+Measures what privacy really costs in emotion classification, comparing centralized training, **Federated Learning**, and federated training with **Differential Privacy** on a frozen **DistilBERT** encoder. Raw text never leaves the client, and Macro-F1 drops from 0.56 to 0.43, then to 0.20 at ε≈1.37.
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white&logo=pytorch)
-![BERT](https://img.shields.io/badge/BERT-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white)
 ![Federated Learning](https://img.shields.io/badge/Federated%20Learning-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 
@@ -44,6 +44,12 @@ Are Polymarket prices honest probabilities? A calibration study of **897 resolve
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white&logo=scikitlearn)
 ![statsmodels](https://img.shields.io/badge/statsmodels-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=pandas)
+
+### 💬 [Vera Bot](https://github.com/yadavaruncs/vera-bot)
+A WhatsApp merchant-engagement bot with **26 trigger handlers**. Every number, name and price in a message comes from the merchant's context or simple arithmetic on it, so nothing is invented. [Try the live demo](https://yadavaruncs.github.io/vera-bot/), which runs the real bot in your browser.
+
+![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
+![Docker](https://img.shields.io/badge/Docker-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=docker)
 
 ## 📬 Connect
 
