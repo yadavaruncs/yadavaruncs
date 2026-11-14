@@ -20,6 +20,22 @@
 
 ## 🚀 Featured Projects
 
+### 🧠 [AI Doubt Engine](https://github.com/yadavaruncs/AI-Doubt-Engine)
+A physics doubt-solver built on **RAG** with a **LangGraph** agent. It routes each question, retrieves textbook passages with **hybrid dense + BM25 search** in Qdrant, and sends every calculation to a sandboxed **SymPy** tool instead of trusting the LLM's arithmetic. An ablation on 75 questions showed hybrid search lifting the hit rate on paraphrased questions from 84% to 94%, while a cross-encoder reranker did not earn its latency.
+
+![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23FBEAE3?style=flat&labelColor=%23D85A30&color=%23D85A30&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=fastapi)
+
+### 📈 [Prediction Market Calibration](https://github.com/yadavaruncs/Prediction-market-calibration)
+Are Polymarket prices honest probabilities? A calibration study of **897 resolved markets** using clustered bootstrap intervals, a Murphy decomposition, and a **walk-forward backtest with no lookahead**. Prices proved well calibrated (Brier skill score 0.51), and an apparent 9.2% trading return could not be distinguished from zero.
+
+![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white&logo=scikitlearn)
+![statsmodels](https://img.shields.io/badge/statsmodels-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=pandas)
+
 ### 🔒 [FECL-EmotionAI](https://github.com/yadavaruncs/FECL-EmotionAI)
 Measures what privacy really costs in emotion classification, comparing centralized training, **Federated Learning**, and federated training with **Differential Privacy** on a frozen **DistilBERT** encoder. Raw text never leaves the client, and Macro-F1 drops from 0.56 to 0.43, then to 0.20 at ε≈1.37.
 
@@ -35,21 +51,6 @@ A search engine built from scratch in **C++20** — inverted index, TF-IDF ranki
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=cmake)
-
-
-### 📈 [Prediction Market Calibration](https://github.com/yadavaruncs/Prediction-market-calibration)
-Are Polymarket prices honest probabilities? A calibration study of **897 resolved markets** using clustered bootstrap intervals, a Murphy decomposition, and a **walk-forward backtest with no lookahead**. Prices proved well calibrated (Brier skill score 0.51), and an apparent 9.2% trading return could not be distinguished from zero.
-
-![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white&logo=scikitlearn)
-![statsmodels](https://img.shields.io/badge/statsmodels-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=pandas)
-
-### 💬 [Vera Bot](https://github.com/yadavaruncs/vera-bot)
-A WhatsApp merchant-engagement bot with **26 trigger handlers**. Every number, name and price in a message comes from the merchant's context or simple arithmetic on it, so nothing is invented. [Try the live demo](https://yadavaruncs.github.io/vera-bot/), which runs the real bot in your browser.
-
-![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
-![Docker](https://img.shields.io/badge/Docker-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=docker)
 
 ## 📬 Connect
 
