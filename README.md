@@ -79,7 +79,7 @@ A search engine built from scratch in **C++20** — inverted index, TF-IDF ranki
 ## 🛠️ Toolbox
 
 - **Languages:** Python · SQL · C++
-- **Data & storage:** SQLite · pandas · AWS S3 (boto3) · Qdrant
+- **Data & storage:** MySQL · SQLite · pandas · AWS S3 (boto3) · Qdrant
 - **Ops & delivery:** Docker · GitHub Actions · Prometheus metrics · structured logging · pytest
 - **Apps & ML:** FastAPI · Streamlit · PyTorch · HuggingFace · scikit-learn · LangGraph
 
