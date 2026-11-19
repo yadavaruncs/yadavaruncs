@@ -4,21 +4,39 @@
 
 **B.Tech Computer Science & Engineering · Delhi Technological University · 2023–2027**
 
-![ML & AI](https://img.shields.io/badge/ML%20%26%20AI-%237F77DD?style=for-the-badge)
-![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%231D9E75?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-%23378ADD?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%231D9E75?style=for-the-badge&logo=sqlite&logoColor=white)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-%237F77DD?style=for-the-badge)
+![ML & AI](https://img.shields.io/badge/ML%20%26%20AI-%23993C1D?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C%2B%2B-%23D85A30?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships%20%F0%9F%94%8D-%23BA7517?style=for-the-badge)
+![Open to Internships & Full-time](https://img.shields.io/badge/Open%20to%20Internships%20%26%20Full--time%20%F0%9F%94%8D-%23BA7517?style=for-the-badge)
 
 </div>
 
 ---
 
-> Fourth-year CS student building intelligent, privacy-aware systems. I work at the intersection of NLP, federated learning, and software engineering — turning complex ideas into working code.
+> Fourth-year CS student who builds tools that keep running after the demo. I like problems where real people and real data meet: getting field data off unreliable links intact, making sure the numbers a team relies on are actually right, and writing the runbook so someone who isn't an engineer can operate it. I also work on NLP, federated learning and retrieval systems, and I turn complex ideas into working, tested code.
+
+**How I work**
+
+- **Own it end to end.** I take a tool from the first version to something tested, containerised and running in CI, then keep improving it.
+- **Make failures visible.** Metrics, structured logs and alerts, so a problem is noticed before someone has to ask.
+- **Check the numbers.** Every headline figure in my projects comes from a script you can re-run, and I report results that came out flat or negative too.
+- **Write it down.** READMEs, architecture notes and SOPs written for the person who has to use the tool.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📦 [Offloader](https://github.com/yadavaruncs/offloader)
+An upload agent that gets multi-gigabyte recordings off field kits and into S3 over slow, intermittent site internet. Uploads **resume from the last acknowledged part** using a **SQLite journal**, and integrity is checked twice, with per-part ETags and a whole-file SHA-256. A watchdog alerts on **stalled** uploads, not just failed ones, and **Prometheus metrics** cover the whole pipeline. A fault-injection benchmark shows resume cutting bytes moved by **50%** versus a naive restart, with **zero corrupted objects**. It ships with a **field SOP** for non-technical site staff, plus 77 tests at about 90% coverage and CI on GitHub Actions.
+
+![Python](https://img.shields.io/badge/Python-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=python)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FBEAE3?style=flat&labelColor=%23D85A30&color=%23D85A30&logoColor=white&logo=amazons3)
+![SQLite](https://img.shields.io/badge/SQLite-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=sqlite)
+![Prometheus](https://img.shields.io/badge/Prometheus-%23FAEEDA?style=flat&labelColor=%23BA7517&color=%23BA7517&logoColor=white&logo=prometheus)
+![Docker](https://img.shields.io/badge/Docker-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white&logo=githubactions)
 
 ### 🧠 [AI Doubt Engine](https://github.com/yadavaruncs/AI-Doubt-Engine)
 A physics doubt-solver built on **RAG** with a **LangGraph** agent. It routes each question, retrieves textbook passages with **hybrid dense + BM25 search** in Qdrant, and sends every calculation to a sandboxed **SymPy** tool instead of trusting the LLM's arithmetic. An ablation on 75 questions showed hybrid search lifting the hit rate on paraphrased questions from 84% to 94%, while a cross-encoder reranker did not earn its latency.
@@ -51,6 +69,19 @@ A search engine built from scratch in **C++20** — inverted index, TF-IDF ranki
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-%23EEEDFE?style=flat&labelColor=%237F77DD&color=%237F77DD&logoColor=white)
 ![Multithreading](https://img.shields.io/badge/Multithreading-%23E6F1FB?style=flat&labelColor=%23185FA5&color=%23185FA5&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23E1F5EE?style=flat&labelColor=%231D9E75&color=%231D9E75&logoColor=white&logo=cmake)
+
+### More projects
+
+- 💬 [Vera Bot](https://github.com/yadavaruncs/vera-bot): a WhatsApp merchant-engagement bot built for the magicpin AI challenge, with a live demo that runs the real bot in the browser.
+- 🛗 [Lift Management System](https://github.com/yadavaruncs/Lift-Management-System): multi-floor lift scheduling in C++, designed to cut wait times and energy use across concurrent operations.
+- 🎓 [Student Performance Predictor](https://github.com/yadavaruncs/Student-performance-predictor): an ML model that predicts student academic outcomes with 85% accuracy, served through a Streamlit app.
+
+## 🛠️ Toolbox
+
+- **Languages:** Python · SQL · C++
+- **Data & storage:** SQLite · pandas · AWS S3 (boto3) · Qdrant
+- **Ops & delivery:** Docker · GitHub Actions · Prometheus metrics · structured logging · pytest
+- **Apps & ML:** FastAPI · Streamlit · PyTorch · HuggingFace · scikit-learn · LangGraph
 
 ## 📬 Connect
 
